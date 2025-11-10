@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-express-tutorial",
+  "version": "1.0.0",
+  "description": "A tutorial Node.js server with Express.js demonstrating basic routing",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "tutorial",
+    "express",
+    "nodejs",
+    "rest-api"
+  ],
+  "author": "",
+  "license": "MIT"
+}
