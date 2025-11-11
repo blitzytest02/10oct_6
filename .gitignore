@@ -1,6 +1,19 @@
 # Dependencies
 node_modules/
 
+# Python
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
 # Environment variables
 .env
 .env.local
